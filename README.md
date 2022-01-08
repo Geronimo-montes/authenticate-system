@@ -1,3 +1,4 @@
+<!-- LINK EN GITHUB: https://github.com/Geronimo-montes/authenticate-system -->
 <p align="center">
   <a href="" rel="noopener">
     <img src="banner.png" alt="Project logo">
@@ -17,6 +18,10 @@
 
 - [About](#about)
 - [Herramientas utilizadas](#herramientas)
+  - [MongoDB](https://www.mongodb.com/)
+  - [Python 3.9.7](https://www.python.org/)
+  - [NodeJs](https://nodejs.org/en/)
+  - [Angular 10](https://angular.io)
 - [Preparación del entorno y ejecución](#ejecucion)
 
 #
@@ -31,11 +36,11 @@ Como solución a este tarea repetitiva se ideo una arquitectura de sistema que p
 ## 🛠️ Herramientas utilizadas <a name = "herramientas"></a>
 _Acontinuacion se listan las herramientas que se utilizaron para el desarrollo del proyecto._
 
+* [MongoDB](https://www.mongodb.com/) - MongoDB es un sistema de base de datos NoSQL, orientado a documentos y de código abierto. 
 * [Python 3.9.7](https://www.python.org/) - Lenguaje de programacion Python, en la version 3.9.7.
-* [pipenv](https://pipenv-es.readthedocs.io/es/latest/) - Automáticamente crea y maneja un entorno virtual para tus proyectos, también como agregar/remover paquetes desde tu Pipfile como instalar/desisntalar paquetes. También genera el más importante Pipfile.lock, que es usado para producir determinado build.
-* [SQL Server 2019](https://www.microsoft.com/es-mx/sql-server/sql-server-downloads) - Motor de base de datos SQL Server 2019, aunque la aplicacion real se realizara sobre la version 2016.
-* Librerias utilizadas
-    * [pyodbc](https://github.com/mkleehammer/pyodbc/wiki#table-of-contents) Libreria para gestionar la conexion con la base de datos. Permite executar consultas SQL.
+  * [OpenCV](https://opencv.org/) - OpenCV es una biblioteca libre de visión artificial originalmente desarrollada por Intel.
+* [NodeJs](https://nodejs.org/en/) - Node.js está diseñado para crear aplicaciones de red escalables.
+* [Angular 10](https://angular.io) - Angular es un framework para aplicaciones web desarrollado en TypeScript, de código abierto, mantenido por Google, que se utiliza para crear y mantener aplicaciones web de una sola página.
 
 #
 ## 🔧 Preparación del entorno y ejecución <a name = "ejecucion"></a>
