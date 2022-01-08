@@ -51,6 +51,6 @@ Para generar una copia local del sistema ejecute el archivo `run.bat`. _(O bien,
 
 Proyectos utilizados en el sistema
   
-- [Python](#https://github.com/Geronimo-montes/biometric-recognition.git) _: Modelo de reconoimiento facial mediante datos  biometricos_
-- [NodeJs](#https://github.com/Geronimo-montes/api-authentication.git) _: Backend del sistema, montado con ayuda de NodeJs_
-- [Angular](#https://github.com/Geronimo-montes/app-authentication.git) _: Pagina Web de gestion dde usuarios._
+- [Python](https://github.com/Geronimo-montes/biometric-recognition.git) _: Modelo de reconoimiento facial mediante datos  biometricos_
+- [NodeJs](https://github.com/Geronimo-montes/api-authentication.git) _: Backend del sistema, montado con ayuda de NodeJs_
+- [Angular](https://github.com/Geronimo-montes/app-authentication.git) _: Pagina Web de gestion dde usuarios._
